@@ -3,6 +3,7 @@
 
 > [!TIP]
 > - The V2 of this prject is here : [![Static Badge](https://img.shields.io/badge/PvBrain-v2.0-black?style=social&logo=quasar)](https://github.com/SeByDocKy/pvbrain2)
+> - Complete [Youtube Playlist](https://www.youtube.com/playlist?list=PLSV1K5-luJlT74urMGxzf4Ba2JJmisi1J) (in French) is [HERE](https://www.youtube.com/playlist?list=PLSV1K5-luJlT74urMGxzf4Ba2JJmisi1J)
 
 # PVbrain
 > [!IMPORTANT]
@@ -60,7 +61,7 @@ An optional addon card can be pluged to monitor direct voltages of your PV strin
 | :-----------------------: |
 |<img src="../main/Pictures/pvbrain-option1-3D1.JPG" width="480" /> |
 
-## Gerber files:
+### Gerber files:
 
 Please find all gerber files required for the addon PCB into the following zip file:
 [Gerber](../main/Hardware/option_1/Gerber_carte_option_1.zip)
@@ -68,7 +69,7 @@ Please find all gerber files required for the addon PCB into the following zip f
 ##  Option_2:
 
 Please check this youtube video explaining the operation of the OPTION2 board (in French)
-[![YoutubeImage](https://img.youtube.com/vi/SeJNZs6UUr4/0.jpg)](https://youtu.be/SeJNZs6UUr4)
+[![YoutubeImage](https://img.youtube.com/vi/SeJNZs6UUr4/0.jpg)](https://youtu.be/CRZBGnN4r7Y)
 | Front                     | Back                      |
 | :-----------------------: | :-----------------------: |
 | <img src="../main/Pictures/option_2.PNG" width="1068" /> | <img src="../main/Pictures/option_2-2.PNG" width="1068" /> |
@@ -93,7 +94,7 @@ Options for future development:
 - Two [AC clamp](https://s.click.aliexpress.com/e/_DdSpSc9) inputs
 - All usable GPIOs are output on terminal blocks so as to be able to upgrade as much as possible.
 
-__Gerber files:
+### Gerber files:
 
 Please find all gerber files required for the PCB into the following zip file: [Gerber](../main/Hardware/option_2/Gerber_carte_option_2.zip)
 
